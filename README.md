@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-I'm Sridhar Ranganathan (Sri). I am currently the Director of Bioinformatics at Jumpcode Genomics. Thanks for visiting my GitHub and feel free to contact me if you have any questions. I am currently interested in solving problems in genomics. Of late, I have spoiled myself in genome-editing, using CRISPRs in applications outside cells and analysis of NGS datasets. 
+I'm Sridhar Ranganathan (Sri). I am currently the Director of Bioinformatics at Jumpcode Genomics. Thanks for visiting my GitHub. I am currently interested in solving problems in genomics using computational approaches. 
+
+Lately, I have been fascinated by the use of CRISPR enzymes outside of a cell for purposes that do not concern genome-editing. e.g. Can CRISPRs be used to enrich the quality of the data from next-generation sequencing experiments?
 
 ### Bioinformatics
 - [CRISPR design for Depletion of Abundant Molecules (DNA Sequencing Applications)](#): 
@@ -12,4 +14,4 @@ I'm Sridhar Ranganathan (Sri). I am currently the Director of Bioinformatics at 
 
 ### Let's Connect
 - Email: sridhar.rg@gmail.com
-- [LinkedIn](#)
+- [LinkedIn](https://www.linkedin.com/in/sur152/)
